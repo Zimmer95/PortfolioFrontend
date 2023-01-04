@@ -1,0 +1,50 @@
+body {
+    padding-left: 12em;
+    display: grid;
+    min-height: 100vh;
+    place-items: center;
+    font-size: 1.5rem;
+    color: rgb(229, 243, 26);
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f0f9ff+0,cbebff+47,a1dbff+100;Blue+3D+%2313 */
+    background: rgb(240,249,255); /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(240,249,255,1) 0%, rgba(203,235,255,1) 47%, rgba(161,219,255,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(240,249,255,1) 0%,rgba(203,235,255,1) 47%,rgba(161,219,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgba(240,249,255,1) 0%,rgba(203,235,255,1) 47%,rgba(161,219,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', endColorstr='#a1dbff',GradientType=0 ); /* IE6-9 */
+}
+a.navega {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 5em;
+    left: 1em;
+    width: 9em }
+a.navegab {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 9em;
+    left: 1em;
+    width: 9em }
+
+h2 {
+    text-align: center;
+}
+a.navega,a.navegab {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black }
+a.navegab, a.navega{
+    text-decoration: none }
+a:link {
+    color: blue }
+a:visited {
+    color: purple }
+address {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted }
+

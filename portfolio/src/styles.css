@@ -11049,3 +11049,17 @@ background-color: #000;
 .colorBordeBoton {
    border-color: #b6effb ;
   }
+
+.posicionPerfil{
+  position:absolute;
+  left:10px;
+  top:100px;
+}
+
+.posicionInstituciones{
+  position:absolute;
+  right:0px;
+  top:0px;
+  block-size: 50px;
+  writing-mode: vertical-rl;
+}

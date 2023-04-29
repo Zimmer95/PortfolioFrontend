@@ -11063,3 +11063,18 @@ background-color: #000;
   block-size: 50px;
   writing-mode: vertical-rl;
 }
+
+.letraParaNegra{
+ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-weight: normal;
+}
+
+
+.posicionDerecha{
+  position:absolute;
+  right:0px;
+  border-radius: 5px;
+}
+.bordeRedondeado{
+  border-radius: 5px;
+}

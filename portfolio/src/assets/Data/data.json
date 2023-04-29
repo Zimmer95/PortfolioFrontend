@@ -1,0 +1,9 @@
+{
+    "nombre":"Jorge",
+    "Apellido":"Zimmermann",
+    "Edad":"27",
+    "Titulos":["Analista de sistemas","Data Analyst","Data Scientist","Full Stack Develoeper Jr"],
+    "Secundaria":"Epet n9",
+    "instituciones":["Coderhouse","Silicon Misiones","Argentina Programa"]
+
+}

@@ -7,7 +7,7 @@ import { map } from 'rxjs/operators';
   providedIn: 'root'
 })
 export class AuthService {
-  url = 'http://localhost:8080/api/login';
+  url = 'https://portfoliobackendfinal-0lsx.onrender.com/api/login';
 
   constructor(private http: HttpClient) {}
 
